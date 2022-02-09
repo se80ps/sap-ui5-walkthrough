@@ -1,0 +1,26 @@
+{
+  "name": "sap-ui5-walkthrough",
+  "version": "1.0.0",
+  "description": "https://sapui5.hana.ondemand.com/#/entity/sap.m.tutorial.walkthrough",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/se80ps/sap-ui5-walkthrough.git"
+  },
+  "keywords": [
+    "javascript",
+    "sapui5"
+  ],
+  "author": "Peter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/se80ps/sap-ui5-walkthrough/issues"
+  },
+  "homepage": "https://github.com/se80ps/sap-ui5-walkthrough#readme",
+  "devDependencies": {
+    "@ui5/cli": "^2.14.4"
+  }
+}
