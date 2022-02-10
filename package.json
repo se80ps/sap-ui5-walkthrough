@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/se80ps/sap-ui5-walkthrough#readme",
   "devDependencies": {
-    "@ui5/cli": "^2.14.4"
+    "@sap/eslint-plugin-ui5-jsdocs": "^2.0.5",
+    "@sapui5/ts-types": "^1.96.5",
+    "@ui5/cli": "^2.14.4",
+    "eslint": "^8.8.0"
   }
 }
