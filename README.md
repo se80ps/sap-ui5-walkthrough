@@ -8,3 +8,4 @@ https://sapui5.hana.ondemand.com/#/entity/sap.m.tutorial.walkthrough
 4. Walkthrough - Step 4 - XML Views
 5. Walkthrough - Step 5 - Controllers
 6. Walkthrough - Step 6 - Modules
+7. Walkthrough - Step 7 - JSON Model
