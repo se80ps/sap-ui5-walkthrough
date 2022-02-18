@@ -11,3 +11,4 @@ https://sapui5.hana.ondemand.com/#/entity/sap.m.tutorial.walkthrough
 7. JSON Model
 8. Translatable Texts 
 9. Component Configuration
+10. Descriptor for Applications
