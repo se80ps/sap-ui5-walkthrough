@@ -12,3 +12,5 @@ https://sapui5.hana.ondemand.com/#/entity/sap.m.tutorial.walkthrough
 8. Translatable Texts 
 9. Component Configuration
 10. Descriptor for Applications
+11. Pages and Panels
+12. Shell Control as Container 
